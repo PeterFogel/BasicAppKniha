@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+
+.main-content {
+  /* background-color: red; */
+  margin-left: 78px;
+  height: 100vh;
+  overflow: hidden;
+  /* padding: 20px; */
+  /* transition: margin-left 0.3s; */
+}

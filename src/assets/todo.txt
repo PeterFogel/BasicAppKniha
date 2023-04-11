@@ -1,0 +1,4 @@
++ integrovat MUI Modal - jeden komponent -> dynamicky obsah
++ integrovat FontAwesome
+- AppContext audit
+- Opravit logout

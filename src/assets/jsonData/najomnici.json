@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "uid": "11111111",
+    "name": "John",
+    "surname": "Doe",
+    "birthDate": "2000-01-01",
+    "sex": "M",
+    "nationality": "USA",
+    "phone": "0000000000",
+    "address": "261 Erdman Ford, East Daphne, Kentucky",
+    "roomCode": "01/1A",
+    "company": "Stellantis"
+  },
+  {
+    "id": "2",
+    "uid": "22222222",
+    "name": "Jane",
+    "surname": "Smith",
+    "birthDate": "1995-02-05",
+    "sex": "F",
+    "nationality": "USA",
+    "phone": "1111111111",
+    "address": "123 Main Street, Anytown, California",
+    "roomCode": "01/1B",
+    "company": "Acme Corp"
+  },
+  {
+    "id": "3",
+    "uid": "33333333",
+    "name": "Mike",
+    "surname": "Johnson",
+    "birthDate": "1990-03-10",
+    "sex": "M",
+    "nationality": "USA",
+    "phone": "2222222222",
+    "address": "456 Elm Street, Springfield, Texas",
+    "roomCode": "01/2A",
+    "company": "Tech Solutions"
+  },
+  {
+    "id": "4",
+    "uid": "44444444",
+    "name": "Emily",
+    "surname": "Brown",
+    "birthDate": "1985-04-15",
+    "sex": "F",
+    "nationality": "USA",
+    "phone": "3333333333",
+    "address": "789 Pine Street, Hill Valley, Florida",
+    "roomCode": "01/2B",
+    "company": "Global Industries"
+  },
+  {
+    "id": "5",
+    "uid": "55555555",
+    "name": "Jacob",
+    "surname": "Williams",
+    "birthDate": "1992-05-20",
+    "sex": "M",
+    "nationality": "USA",
+    "phone": "4444444444",
+    "address": "101 Oak Street, Smalltown, Nevada",
+    "roomCode": "02/1A",
+    "company": "Innovative Solutions"
+  },
+  {
+    "id": "6",
+    "uid": "66666666",
+    "name": "Samantha",
+    "surname": "Davis",
+    "birthDate": "1988-06-25",
+    "sex": "F",
+    "nationality": "USA",
+    "phone": "5555555555",
+    "address": "202 Maple Street, River City, Oregon",
+    "roomCode": "02/1B",
+    "company": "Future Tech"
+  },
+  {
+    "id": "7",
+    "uid": "77777777",
+    "name": "Max",
+    "surname": "Miller",
+    "birthDate": "1980-07-30",
+    "sex": "M",
+    "nationality": "USA",
+    "phone": "6666666666",
+    "address": "303 Cherry Street, Pleasantville, New York",
+    "roomCode": "02/2A",
+    "company": "Digital Hub"
+  }
+]

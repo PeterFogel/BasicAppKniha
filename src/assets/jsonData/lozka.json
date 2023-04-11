@@ -1,0 +1,72 @@
+[
+  {
+    "roomCode": "01/1A",
+    "type": "Bytovka A",
+    "entrance": "1",
+    "floor": "1",
+    "appartement": "1",
+    "bed": "A",
+    "typeApp": "1 izbový",
+    "roomStatus": "OK",
+    "comment": "",
+    "uid": "11111111",
+    "dateStart": "2023-01-01",
+    "dateEnd": ""
+  },
+  {
+    "roomCode": "01/1B",
+    "type": "Bytovka A",
+    "entrance": "1",
+    "floor": "1",
+    "appartement": "2",
+    "bed": "B",
+    "typeApp": "1 izbový",
+    "roomStatus": "OK",
+    "comment": "",
+    "uid": "22222222",
+    "dateStart": "2023-01-02",
+    "dateEnd": ""
+  },
+  {
+    "roomCode": "01/1C",
+    "type": "Bytovka A",
+    "entrance": "1",
+    "floor": "1",
+    "appartement": "3",
+    "bed": "C",
+    "typeApp": "1 izbový",
+    "roomStatus": "OK",
+    "comment": "",
+    "uid": "33333333",
+    "dateStart": "2023-01-03",
+    "dateEnd": ""
+  },
+  {
+    "roomCode": "01/1D",
+    "type": "Bytovka A",
+    "entrance": "1",
+    "floor": "1",
+    "appartement": "4",
+    "bed": "D",
+    "typeApp": "1 izbový",
+    "roomStatus": "OK",
+    "comment": "",
+    "uid": "44444444",
+    "dateStart": "2023-01-04",
+    "dateEnd": ""
+  },
+  {
+    "roomCode": "01/1E",
+    "type": "Bytovka A",
+    "entrance": "1",
+    "floor": "1",
+    "appartement": "5",
+    "bed": "E",
+    "typeApp": "1 izbový",
+    "roomStatus": "OK",
+    "comment": "",
+    "uid": "55555555",
+    "dateStart": "2023-01-05",
+    "dateEnd": ""
+  }
+]
